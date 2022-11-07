@@ -12,6 +12,12 @@ html {
     background-image: url("../images/11-black-wallpaper.jpg");
 }
 
+
+body{
+    margin:0; /* removes space above body, top of page */
+ }
+
+ 
 ::selection {
     color: #000; 
     background: #ff0;
